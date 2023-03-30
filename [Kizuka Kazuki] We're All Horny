@@ -1,0 +1,25 @@
+{
+   "title":"[Kizuka Kazuki] We're All Horny",
+   "description":"",
+   "author":"Kizuka Kazuki",
+   "artist":"Kizuka Kazuki",
+   "cover":"https://i.imgur.com/GdvvBFV.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jNu9TVH"
+         },
+         "last_updated":1624606143,
+         "title":"We're All Horny",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Y7JUuHy"
+         },
+         "last_updated":1624606143,
+         "title":"I'm All Horny",
+         "volume":"2"
+      }
+   }
+}
